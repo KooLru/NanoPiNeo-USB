@@ -1,4 +1,6 @@
 # NanoPI USB hat
+![USB hat picture](images/DSC02650.JPG)
+
 ## Introduction
 NanoPI USB hat is a expansion board which has the same dimension as that of a NanoPi NEO/Air and can be stacked on:
 - [NanoPi NEO Air](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=151)
@@ -8,6 +10,8 @@ NanoPI USB hat is a expansion board which has the same dimension as that of a Na
 - [NanoPi NEO Core2](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=211)
 
 Contains two USB sockets and PCB 2.4GHz antenna.
+
+DIY version https://www.thingiverse.com/thing:2304339
 
 ## Hardware Spec
 - 2 USB 
